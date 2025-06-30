@@ -51,6 +51,6 @@ npm test
 
 📌 Links
 
-🔗 Repository: GitHub Repo
+🔗 Repository: https://github.com/Idiane05/project-inception-ci-foundation
 
-📋 Project Board: GitHub Project Board
+📋 Project Board: https://github.com/Idiane05/project-inception-ci-foundation/projects?query=is%3Aopen
